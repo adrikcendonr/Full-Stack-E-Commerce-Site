@@ -1,6 +1,3 @@
-# Project
-
-## Fresh installation for Mac OS
 
 Overview
 ========
