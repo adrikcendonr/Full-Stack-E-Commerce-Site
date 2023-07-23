@@ -2,6 +2,17 @@
 
 ## Fresh installation for Mac OS
 
+Overview
+Welcome to the code repository for my E-Commerce Site, an e-commerce platform built purely out of my love for technology and desire to implement something fun and challenging. This project is an open-source e-commerce platform utilizing Python as the back-end, MongoDB for database management, and React.js for the front-end.
+
+This e-commerce site is intended to be a learning resource for students, developers, and anyone interested in understanding how to integrate these technologies together to create a fully functional application. It provides functionalities such as product listing, user authentication, shopping cart, and order processing.
+
+Tech Stack
+Backend: The backend server is developed using Python. It takes advantage of the Flask framework to set up the server and routes, and PyMongo driver is used for interacting with the MongoDB database.
+
+Database: MongoDB, a popular NoSQL database, is used due to its scalability and flexibility. It efficiently manages a large amount of data which can come in various forms.
+
+Frontend: The user interface of the application is built using React.js, a powerful JavaScript library for building interactive user interfaces. React allows efficient updates and rendering, making the user experience smooth and responsive.
 * Prerequisites: Python3, pip, npm
 
 1) Download the code under the project directory and unzip the .zip file to a folder
